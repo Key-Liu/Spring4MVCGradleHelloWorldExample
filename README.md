@@ -1,6 +1,6 @@
 #Spring 4 MVC HelloWorld Example
 
-Template for Spring 4 MVC + JSP view + XML configuration, suing Gradle build tool.
+Template for Spring 4 MVC + JSP view + XML configuration, using Gradle build tool.
 
 ##1. Technologies used
 * Gradle 2.3
